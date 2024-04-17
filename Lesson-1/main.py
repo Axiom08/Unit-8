@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Point class goes here
 import math
 class Point:
@@ -23,3 +24,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+=======
+>>>>>>> 28598b6f35b9a5484f5879093dd0ef605c03c726
